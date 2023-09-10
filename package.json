@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/AbrarFaizMohammed/TodoApp",
-  "name": "TodoApp",
+  "name":"todoapp", 
+  "homepage": "https://abrarfaizmohammed.github.io/TodoApp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
